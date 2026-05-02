@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsistentHashing", "ConsistentHashing", "{9AD18C85-697A-F778-562E-833FAF0D8136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing", "ConsistentHashing\ConsistentHashing\ConsistentHashing.csproj", "{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing", "ConsistentHashing\ConsistentHashing.csproj", "{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
