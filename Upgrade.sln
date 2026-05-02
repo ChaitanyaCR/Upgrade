@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsistentHashing", "ConsistentHashing", "{9AD18C85-697A-F778-562E-833FAF0D8136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashing", "ConsistentHashing\ConsistentHashing\ConsistentHashing.csproj", "{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{592EC1F2-AC9F-3E6F-3093-F5E40A9D1499} = {9AD18C85-697A-F778-562E-833FAF0D8136}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487BE6B9-A036-4AD0-B3B3-F9FA0D1B64BC}
+	EndGlobalSection
+EndGlobal
